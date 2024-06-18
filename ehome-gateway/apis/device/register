@@ -1,0 +1,12 @@
+{
+    "code": 200,
+    "msg": "OK",
+    "result": {
+        "username": "CMCC_X11",
+        "secret": "==CMCC@2024==",
+        "sslEndpoint": f"ssl://broker-cn.emqx.io:8883",
+        "tcpEndpoint": f"tcp://broker-cn.emqx.io:1883",
+        "channel": ""
+    },
+    "ok": True
+}
